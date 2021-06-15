@@ -13,4 +13,4 @@ def divide(a, b):
 if __name__ == '__main__':
     num1 = input("Enter a number: ")
     num2 = input("Enter another number: ")
-    print(num1, num2)
+    print("These are your numbers", num1, num2)
