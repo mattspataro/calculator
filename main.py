@@ -27,5 +27,3 @@ if __name__ == '__main__':
     print("Multiply:", multiply(a, b))
     print("Pow:", pow(a, b))
     print("Square Root:", sqrt(a, b))
-
-
