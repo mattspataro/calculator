@@ -24,3 +24,6 @@ if __name__ == '__main__':
     num2 = input("Enter another number: ")
     print("These are your numbers", num1, num2)
 
+    print("Multiply:", multiply(a, b))
+    print("Pow:", pow(a, b))
+    print("Square Root:", sqrt(a, b))
