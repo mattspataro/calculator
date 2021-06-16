@@ -17,7 +17,7 @@ def sqrt(a):
     pass
 
 def pow(a, b):
-    pass # raise a to the power of b
+    return a ** b # raise a to the power of b
 
 if __name__ == '__main__':
     num1 = input("Enter a number: ")
